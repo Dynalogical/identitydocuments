@@ -19,7 +19,7 @@ Package that allows you to handle documents like passports and other documents t
 
 This package allows you to process images of documents to find the MRZ, parse the MRZ, parse the Visual Inspection Zone (VIZ) and also to find and return a crop of the passport picture (using face detection).
 
-> ⚠️ Version 2.x is a complete rewrite of the package with a new MRZ detection algorithm and is not compatible with version 1.x
+> ⚠️ Version 3.x is a complete rewrite of the package with a new MRZ detection algorithm and is not compatible with version 1.x
 
   
   
@@ -34,7 +34,7 @@ Via Composer
 
 ``` bash
 
-$ composer require werk365/identitydocuments
+$ composer require dynalogical/identitydocuments
 
 ```
 
